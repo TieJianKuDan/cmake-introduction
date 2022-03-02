@@ -1,0 +1,1 @@
+install(FILES README.md DESTINATION doc)

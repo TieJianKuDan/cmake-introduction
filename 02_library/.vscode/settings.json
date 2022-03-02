@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "swap": "cpp",
+        "iostream": "cpp",
+        "cstdlib": "cpp"
+    }
+}
